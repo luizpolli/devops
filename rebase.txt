@@ -1,1 +1,2 @@
 Adicionando rebase.txt
+Nova linha no arquivo rebase.txt
