@@ -1,0 +1,1 @@
+Linha do arquivo na branch feature/arquivo_merge
