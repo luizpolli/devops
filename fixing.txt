@@ -1,0 +1,1 @@
+Fixing the problem in the file new_feature created with branch new_feature
