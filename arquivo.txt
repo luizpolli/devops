@@ -6,4 +6,9 @@ Teste (Origem: Main) - Merge
 Nova linha local no github
 
 Outra linha do video conflito
+
 Nova linha no fecth via CLI
+
+
+Nova linha no github site remoto fetch
+
