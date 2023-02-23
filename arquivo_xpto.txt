@@ -1,1 +1,5 @@
+
 Adicionando nova linha a partir da CLI no mesmo arquivo
+
+Nova linha do video conflito
+
