@@ -1,0 +1,1 @@
+Adicionando linha no arquivo new_feature a partir da novabranch
